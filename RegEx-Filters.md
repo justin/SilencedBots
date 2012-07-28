@@ -8,7 +8,7 @@ Jargon
 
 Spam
 ----
-* ^(@\w *)+$ — Tweets consisting solely @usernames ([@jordanekay](http://twitter.com/jordanekay))
+* ^(@\w *)+$ — Tweets consisting solely of @usernames ([@jordanekay](http://twitter.com/jordanekay))
 
 Annoyances
 ----------
