@@ -13,7 +13,7 @@ Spam
 Annoyances
 ----------
 * `#[A-Za-z]{15,}` — #sentencesashashtags ([@jordanekay](http://twitter.com/jordanekay))
-* `(@\w+ ){4,}` — Tweets with four or more @usernames (you have friends, we get it) ([@jordanekay](http://twitter.com/jordanekay))
+* `(@\w+,? ){4,}` — Tweets with four or more @usernames in a row (you have friends, we get it) ([@jordanekay](http://twitter.com/jordanekay))
 * `\b\w+\*+\w\b` — Tweets censored for no f**king reason ([@jordanekay](http://twitter.com/jordanekay))
 
 Irrelevance
