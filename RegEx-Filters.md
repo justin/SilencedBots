@@ -4,7 +4,7 @@ Celebrities
 
 Jargon
 ------
-* RT @ — Old style retweets ([@justin](http://twitter.com/justin))
+* RT @ — Old style retweets ([@jordanekay](http://twitter.com/jordanekay))
 
 Spam
 ----
