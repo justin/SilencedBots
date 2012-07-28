@@ -1,1 +1,1 @@
-* (?i:B.*ber) — Filter all references to the word Bieber. ([@justin](http://twitter.com/justin)
+* (?i:B.*ber) — Filter all references to the word Bieber. ([@justin](http://twitter.com/justin))
