@@ -16,3 +16,7 @@ Annoyances
 * (@\w+ ){4,} — Tweets with four or more @usernames (you have friends, we get it) ([@jordanekay](http://twitter.com/jordanekay))
 * \b\w+\*+\w\b — Tweets censored for no f**king reason ([@jordanekay](http://twitter.com/jordanekay))
 
+Irrelevance
+-----------
+* IE [0-9]+ — Internet Explorer ([@jordanekay](http://twitter.com/jordanekay))
+
