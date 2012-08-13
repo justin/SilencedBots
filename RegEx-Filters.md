@@ -20,3 +20,6 @@ Irrelevance
 -----------
 * `IE [0-9]+` — Internet Explorer ([@jordanekay](http://twitter.com/jordanekay))
 
+Duplicate mentions
+-----------
+Mute your own @name (as a keyword, NOT a muted person), including the @ sign. This will remove all of your mentions from your main timeline, confining them to the mentions tab so you don't have to see them twice (or see only half of a conversation with someone you don't follow in your main timeline)
