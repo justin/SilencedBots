@@ -19,7 +19,7 @@ Annoyances
 
 Irrelevance
 -----------
-* `IE [0-9]+` — Internet Explorer ([@jordanekay](http://twitter.com/jordanekay))
+* `IE ?[0-9]+` — Internet Explorer ([@jordanekay](http://twitter.com/jordanekay))
 
 Duplicate mentions
 -----------
