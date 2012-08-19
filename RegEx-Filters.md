@@ -1,6 +1,6 @@
 Celebrities
 -----------
-* `(?i:B.*ber)` — Filter all references to the word Bieber. ([@justin](http://twitter.com/justin))
+* `\b(?i:B.*ber)\b` — Filter all references to the word Bieber. ([@justin](http://twitter.com/justin))
 
 Jargon
 ------
