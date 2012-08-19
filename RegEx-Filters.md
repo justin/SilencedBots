@@ -16,6 +16,7 @@ Annoyances
 * `(@\w+,? ){4,}` — Tweets with four or more @usernames in a row (you have friends, we get it) ([@jordanekay](http://twitter.com/jordanekay))
 * `\b\w+\*+\w\b` — Tweets censored for no f**king reason ([@jordanekay](http://twitter.com/jordanekay))
 * `(?i)checked.*in` — I checked in at... ([@iconaholic](http://twitter.com/iconaholic)) 
+* `\n{3,}` — Tweets with 3 or more line breaks. ([@justin](http://twitter.com/justin))
 
 Irrelevance
 -----------
