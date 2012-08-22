@@ -49,3 +49,8 @@ Topical
 * `(?i)dock.*connect(o|e)r` — Dock connector (iPhone 5)  ([@iconaholic](http://twitter.com/iconaholic))
 
 * `(?i)app.*net` — App.Net  ([@iconaholic](http://twitter.com/iconaholic))
+
+Arabic
+-----------
+* `#[\S]*[ضصثقفغعهخحجشسيبلاتنمكةءظطذدزروىأإآئؤ][\S]*` - mute Arabic tags ([@khaled](http://twitter.com/khaled))
+* `[ضصثقفغعهخحجشسيبلاتنمكةءظطذدزروىأإآئؤ]` - Mute Arabic tweets ([@khaled](http://twitter.com/khaled))
