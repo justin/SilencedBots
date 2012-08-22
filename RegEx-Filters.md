@@ -36,6 +36,13 @@ Persistent
 
 * `(?i)in.*case.*you.*missed.*it` — In case you missed it… ([@iconaholic](http://twitter.com/iconaholic))
 
+
+Replies
+-----------
+* `^@` - mute tweets that begin with @, "replies" ([@khaled](http://twitter.com/khaled))
+
+* `^(?i)(@name)` - mute replies to a specific person ([@khaled](http://twitter.com/khaled))
+
 Ego Stroking
 -----------
 * `(?i)dribbble.*(last.*night|earlier)|(last.*night|earlier).*dribbble` — I @dribbbled earlier/last night ([@iconaholic](http://twitter.com/iconaholic))
@@ -53,4 +60,5 @@ Topical
 Arabic
 -----------
 * `#[\S]*[ضصثقفغعهخحجشسيبلاتنمكةءظطذدزروىأإآئؤ][\S]*` - mute Arabic tags ([@khaled](http://twitter.com/khaled))
+                                                      - 
 * `[ضصثقفغعهخحجشسيبلاتنمكةءظطذدزروىأإآئؤ]` - Mute Arabic tweets ([@khaled](http://twitter.com/khaled))
