@@ -5,6 +5,7 @@ Celebrities
 Jargon
 ------
 * `RT @` — Old style retweets ([@jordanekay](http://twitter.com/jordanekay))
+* `MT @` — Modified old-style retweet ([@MikeBeas](http://twitter.com/MikeBeas))
 
 Spam
 ----
@@ -35,6 +36,8 @@ Persistent
 * `(?i)timezone.*(retweet|rt)` — Timezone Retweet ([@iconaholic](http://twitter.com/iconaholic))
 
 * `(?i)in.*case.*you.*missed.*it` — In case you missed it… ([@iconaholic](http://twitter.com/iconaholic))
+
+* ICYMI - Shorthand for 'in case you missed it' ([@MikeBeas](http://twitter.com/MikeBeas))
 
 
 Replies
