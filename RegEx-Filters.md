@@ -5,6 +5,7 @@ Celebrities
 Jargon
 ------
 * `RT @` — Old style retweets ([@jordanekay](http://twitter.com/jordanekay))
+* `MT @` — Modified old-style retweet ([@MikeBeas](http://twitter.com/MikeBeas))
 
 Spam
 ----
