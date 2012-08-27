@@ -37,6 +37,8 @@ Persistent
 
 * `(?i)in.*case.*you.*missed.*it` — In case you missed it… ([@iconaholic](http://twitter.com/iconaholic))
 
+* ICYMI - Shorthand for 'in case you missed it' ([@MikeBeas](http://twitter.com/MikeBeas))
+
 
 Replies
 -----------
