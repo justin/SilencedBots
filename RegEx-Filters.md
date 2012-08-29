@@ -16,7 +16,7 @@ Annoyances
 * `#[A-Za-z]{15,}` — #sentencesashashtags ([@jordanekay](http://twitter.com/jordanekay))
 * `(@\w+,? ){4,}` — Tweets with four or more @usernames in a row (you have friends, we get it) ([@jordanekay](http://twitter.com/jordanekay))
 * `\b\w+\*+\w\b` — Tweets censored for no f**king reason ([@jordanekay](http://twitter.com/jordanekay))
-* `(?i)checked.*in` - I checked in at... (*"You *need* to know everwhere I am/have been"*) ([@jonohunt](http://twitter.com/jonohunt))
+* `(?i)checked.*in` — I checked in at... ([@iconaholic](http://twitter.com/iconaholic)) 
 * `\n{3,}` — Tweets with 3 or more line breaks. ([@justin](http://twitter.com/justin))
 
 Irrelevance
@@ -33,9 +33,9 @@ SXSW
 
 Persistent
 -----------
-* `(?i)(timezone|time.*zone).*(retweet|rt)` - Timezone RT (*"Nothing I tweet should ever be missed. Ever"*) ([@jonohunt](http://twitter.com/jonohunt))
+* `(?i)timezone.*(retweet|rt)` — Timezone Retweet ([@iconaholic](http://twitter.com/iconaholic))
 
-* `(?i)(in.*case|if).*you.*missed.*it` - In case you missed it… (*"…I did something amazing that shouldn't be missed"*) ([@jonohunt](http://twitter.com/jonohunt))
+* `(?i)in.*case.*you.*missed.*it` — In case you missed it… ([@iconaholic](http://twitter.com/iconaholic))
 
 * ICYMI - Shorthand for 'in case you missed it' ([@MikeBeas](http://twitter.com/MikeBeas))
 
@@ -48,28 +48,20 @@ Replies
 
 Ego Stroking
 -----------
-* `(?i)dribbble.*(last.*night|earlier)|(last.*night|earlier).*dribbble` - I @Dribbbled earlier/last night ([@jonohunt](http://twitter.com/jonohunt))
+* `(?i)dribbble.*(last.*night|earlier)|(last.*night|earlier).*dribbble` — I @dribbbled earlier/last night ([@iconaholic](http://twitter.com/iconaholic))
 
-* `(?i)popular.*page` - Popular page (*"I`m pretty amazing, I made the Popular Page on Dribbble"* ) ([@jonohunt](http://twitter.com/jonohunt))
-
-* `(?i)followers.*on.*(dribbble|twitter)` - (*"I've got xxx followers on Dribbble/Twitter")* ([@jonohunt](http://twitter.com/jonohunt))
+* `(?i)popular.*page` — Popular page (*"I made the Popular page on @dribbble."*) ([@iconaholic](http://twitter.com/iconaholic))
 
 Topical
 -----------
-* `(?i)ipad.*mini.*|.*mini.*ipad` - iPad mini ([@jonohunt](http://twitter.com/jonohunt))
+* `(?i)ipad.*mini.*|.*mini.*ipad` — iPad mini  ([@iconaholic](http://twitter.com/iconaholic))
 
-* `(?i)dock.*connect(o|e)r` - Dock connector (iPhone 5) ([@jonohunt](http://twitter.com/jonohunt))
+* `(?i)dock.*connect(o|e)r` — Dock connector (iPhone 5)  ([@iconaholic](http://twitter.com/iconaholic))
 
-* `(?i)app.*net` - App.Net ([@jonohunt](http://twitter.com/jonohunt))
-
-* `(?i)twitter.*(api|1.1)|api.*(twitter|1.1)|1.1.*(twitter|api)` - Twitter's new 1.1 API ([@jonohunt](http://twitter.com/jonohunt))
+* `(?i)app.*net` — App.Net  ([@iconaholic](http://twitter.com/iconaholic))
 
 Arabic
 -----------
 * `#[\S]*[ضصثقفغعهخحجشسيبلاتنمكةءظطذدزروىأإآئؤ][\S]*` - mute Arabic tags ([@khaled](http://twitter.com/khaled))
                                                       - 
 * `[ضصثقفغعهخحجشسيبلاتنمكةءظطذدزروىأإآئؤ]` - Mute Arabic tweets ([@khaled](http://twitter.com/khaled))
-
-Stating the obvious
-----------
-* `(?i)((new|change).*avatar)|(avatar.*(new|change))` - *"Look, I changed my avatar"* ([@jonohunt](http://twitter.com/jonohunt))
