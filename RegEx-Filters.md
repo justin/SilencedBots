@@ -18,6 +18,7 @@ Annoyances
 * `\b\w+\*+\w\b` — Tweets censored for no f**king reason ([@jordanekay](http://twitter.com/jordanekay))
 * `(?i)checked.*in` — I checked in at... ([@iconaholic](http://twitter.com/iconaholic)) 
 * `\n{3,}` — Tweets with 3 or more line breaks. ([@justin](http://twitter.com/justin))
+* `^\.@` — Out of context public replies. ([@grahamwetzler](http://twitter.com/grahamwetzler))
 
 Irrelevance
 -----------
