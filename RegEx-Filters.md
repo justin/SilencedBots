@@ -19,6 +19,8 @@ Annoyances
 * `(?i)checked.*in` - I checked in at... ([@jonohunt](http://twitter.com/jonohunt))
 * `\n{3,}` — Tweets with 3 or more line breaks. ([@justin](http://twitter.com/justin))
 * `^\.@` — Out of context public replies. ([@grahamwetzler](http://twitter.com/grahamwetzler))
+* is my new jam – No one cares what your new jam is PLEASE SHUT UP GOSH ([@MikeBeas](http://twitter.com/MikeBeas))
+* is my insanely catch song of the day ([@MikeBeas](http://twitter.com/MikeBeas))
 
 Irrelevance
 -----------
