@@ -22,6 +22,8 @@ Annoyances
 * is my new jam – No one cares what your new jam is PLEASE SHUT UP GOSH ([@MikeBeas](http://twitter.com/MikeBeas))
 * is my insanely catch song of the day ([@MikeBeas](http://twitter.com/MikeBeas))
 
+* `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc... ([@jonohunt](http://twitter.com/jonohunt))
+
 Irrelevance
 -----------
 * `IE ?[0-9]+` — Internet Explorer ([@jordanekay](http://twitter.com/jordanekay))
