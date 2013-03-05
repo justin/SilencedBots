@@ -59,6 +59,8 @@ Ego Stroking
 
 * `(?i)followers.*on.*(dribbble|twitter)` - *"I've got xxx followers on @dribbble/Twitter"* ([@jonohunt](http://twitter.com/jonohunt))
 
+* `(?is)\bmy\b.*((@\w+)|(\b\w+\b)).*(\bstats\b|\brank\b)` - My current XYZ stats/rank  ([@widerwille](http://twitter.com/widerwille)) 
+
 Topical
 -----------
 * `(?i)ipad.*mini.*|.*mini.*ipad` - iPad mini ([@jonohunt](http://twitter.com/jonohunt))
