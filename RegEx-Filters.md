@@ -26,6 +26,7 @@ Annoyances
 * is my insanely catch song of the day ([@MikeBeas](http://twitter.com/MikeBeas))
 
 * `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc... ([@jonohunt](http://twitter.com/jonohunt))
+* `^[A-Z\s\p{P}]*$` - TWEETS IN ALL CAPS ([@ashur](http://twitter.com/ashur))
 
 Irrelevance
 -----------
