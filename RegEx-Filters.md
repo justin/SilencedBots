@@ -17,6 +17,7 @@ Annoyances
 * `\b#[A-Za-z0-9]+chat\b`— hashtag-based chatroom crap. ([@inkedmn](http://twitter.com/inkedmn))
 * `(#[A-Za-z0-9]+[ ]*){3,}` — tweets with three or more hashtags in a row ([@inkedmn](http://twitter.com/inkedmn))
 * `#(.+)#` - Two or more hashtags in a tweet, anywhere ([@apike](http://twitter.com/apike))
+* `^((#|@)\S+\s*)+$` - Tweets consisting solely of @usernames and #hashtags, separated by whitespace, with no substantive content. Inspired by the tweets of [@caseyliss](http://twitter.com/caseyliss). ([@JFlavin](http://twitter.com/jflavin))
 * `(@\w+,? ){4,}` — Tweets with four or more @usernames in a row (you have friends, we get it) ([@jordanekay](http://twitter.com/jordanekay))
 * `\b\w+\*+\w\b` — Tweets censored for no f**king reason ([@jordanekay](http://twitter.com/jordanekay))
 * `(?i)checked.*in` - I checked in at... ([@jonohunt](http://twitter.com/jonohunt))
