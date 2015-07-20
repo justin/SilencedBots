@@ -24,6 +24,7 @@ Annoyances
 * `^\.\s?@` — Out of context public replies. ([@grahamwetzler](http://twitter.com/grahamwetzler) / [@ashfurrow](http://twitter.com/ashfurrow))
 * is my new jam – No one cares what your new jam is PLEASE SHUT UP GOSH ([@MikeBeas](http://twitter.com/MikeBeas))
 * is my insanely catch song of the day ([@MikeBeas](http://twitter.com/MikeBeas))
+* `^(\d+)/` - "1/ I really hate it when" "2/ People use Twitter for" "3/ Tweetstorms" ([@RodBegbie](https://twitter.com/RodBegbie))
 
 * `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc... ([@jonohunt](http://twitter.com/jonohunt))
 
