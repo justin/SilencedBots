@@ -30,6 +30,8 @@ Annoyances
 * `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc... ([@jonohunt](http://twitter.com/jonohunt))
 * `^[A-Z\s\p{P}]*$` - TWEETS IN ALL CAPS ([@ashur](http://twitter.com/ashur))
 
+* `top stories today via` - Paper.li spam 'news stories', usually getting attention by mentioning @you. ([@danielpunkass](https://twitter.com/danielpunkass))
+
 Irrelevance
 -----------
 * `IE ?[0-9]+` — Internet Explorer ([@jordanekay](http://twitter.com/jordanekay))
