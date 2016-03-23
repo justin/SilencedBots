@@ -32,6 +32,14 @@ Annoyances
 
 * `top stories today via` - Paper.li spam 'news stories', usually getting attention by mentioning @you. ([@danielpunkass](https://twitter.com/danielpunkass))
 
+* `#[Nn]ational(\w+)[Dd]ay` - #nationalwhateverday ([@senatorjohn](https://twitter.com/senatorjohn)]
+* `#(\w*)[Mm]arketing` - #everykindofmarketing ([@senatorjohn](https://twitter.com/senatorjohn)]
+
+Clickbait
+-----------
+* `^[0-9]+\s(\w+)s` - '*22 Links* You Need To Click Today' ([@senatorjohn](https://twitter.com/senatorjohn)]
+* `^[Hh]ere's` - '*Here's* A Story With Less Content Than Its Headline' ([@senatorjohn](https://twitter.com/senatorjohn)]
+
 Irrelevance
 -----------
 * `IE ?[0-9]+` — Internet Explorer ([@jordanekay](http://twitter.com/jordanekay))
