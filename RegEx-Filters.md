@@ -31,7 +31,7 @@ Annoyances
 * `^[A-Z\s\p{P}]*$` - TWEETS IN ALL CAPS ([@ashur](http://twitter.com/ashur))
 
 * `top stories today via` - Paper.li spam 'news stories', usually getting attention by mentioning @you. ([@danielpunkass](https://twitter.com/danielpunkass))
-* `#([f,F]irst[s,S]even|[f,F]irst7)` - #firstsevenlists [@timothybroder](https://twitter.com/timothybroder "@timothybroder")
+* `#([fF]irst[sS]even|[fF]irst7)` - #firstsevenlists [@timothybroder](https://twitter.com/timothybroder "@timothybroder")
 
 Irrelevance
 -----------
